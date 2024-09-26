@@ -1,7 +1,5 @@
 # Wrath of The Emprire Game Launchpad
 
-![Wrath of The Emprire Logo](images/Group%202%20c%20opy.png)
-
 ## Description
 Wrath of The Emprire is an innovative game launchpad built on Binance Smart Chain (BSC) where players can design their own characters, assign powers, and engage in battles to emerge victorious. This README provides an overview of the project's structure and features.
 
